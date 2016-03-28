@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package>
+    <name>sbpl_catkin</name>
+    <version>0.0.0</version>
+    <description>
+        A lightweight wrapper around the sbpl library for simple catkin
+        integration
+    </description>
+
+    <maintainer email="andrew.dornbush@gmail.com">aurone</maintainer>
+
+    <license>BSD</license>
+
+    <buildtool_depend>catkin</buildtool_depend>
+</package>
