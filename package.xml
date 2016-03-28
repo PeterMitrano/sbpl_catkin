@@ -4,7 +4,7 @@
     <version>0.0.0</version>
     <description>
         A lightweight wrapper around the sbpl library for simple catkin
-        integration
+        workspace integration
     </description>
 
     <maintainer email="andrew.dornbush@gmail.com">aurone</maintainer>
